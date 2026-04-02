@@ -13,5 +13,5 @@ sudo update-alternatives --config g++
 
 Set up the Micromamba environment
 ```bash
-micromambda create -f ssd.yml --channel-priority flexible
+micromamba create -f ssd.yml --channel-priority flexible
 ```
