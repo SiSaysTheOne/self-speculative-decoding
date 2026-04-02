@@ -1,9 +1,8 @@
 name: SSD
 channels:
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+  - pytorch
   - nvidia
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - conda-forge
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
